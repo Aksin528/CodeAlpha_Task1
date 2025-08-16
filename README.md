@@ -3,6 +3,7 @@
 **Author:** Akşin Abdullayev  
 **Internship:** CodeAlpha Cyber Security Internship (10 Aug 2025 - 10 Sep 2025)  
 **GitHub:** [https://github.com/Aksin528/CodeAlpha_Task1](https://github.com/Aksin528/CodeAlpha_Task1)  
+**LinkedIn:** [Akşin Abdullayev](https://www.linkedin.com/in/ak%C5%9Fin-abdullayev-54a3b22a4/)
 
 ---
 
@@ -35,3 +36,20 @@ Install Scapy using pip:
 
 ```bash
 python3 -m pip install scapy
+```
+
+🚀 How to Run
+
+Run the sniffer with root privileges:
+```
+sudo python3 task1.py
+```
+To stop the sniffer, press CTRL+C or CTRL+Z. You will be prompted to save the captured packets.
+
+Saved packets will be stored in a file like capture1.pcap, capture2.pcap, etc., automatically incremented to avoid overwriting previous captures.
+
+🔗 Links
+
+GitHub Repository: https://github.com/Aksin528?tab=repositories
+
+LinkedIn Profile: https://www.linkedin.com/in/ak%C5%9Fin-abdullayev-54a3b22a4/
